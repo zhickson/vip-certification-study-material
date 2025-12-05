@@ -1,0 +1,21 @@
+{
+  "name": "vip-cert-docs",
+  "version": "1.0.0",
+  "description": "A certified Advanced Professional WordPress Developer, is a highly skilled developer with deep knowledge of WordPress at scale. This individual can design, develop, secure, optimize, and maintain enterprise-grade WordPress implementations. They understand the unique challenges of high-traffic, large-data, and mission-critical environments. They can collaborate effectively across technical and business teams, implementing solutions that are performant, secure, scalable, and maintainable.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.15",
+    "vitepress-sidebar": "^1.33.1"
+  }
+}

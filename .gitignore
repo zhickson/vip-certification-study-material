@@ -7,3 +7,5 @@
 vendor/
 node_modules/
 wordpress/
+.vitepress/dist
+.vitepress/cache
