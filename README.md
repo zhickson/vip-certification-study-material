@@ -36,11 +36,11 @@ The purpose of this preparatory material is as a resource to fill in knowledge g
 Most good WordPress developers will know roughly what to do in each scenario, but some questions are nuanced and/or are somewhat subjective requiring  that invaluable real-world experience, which aligns with it's target of around 3-5 years of WordPress experience.
 
 This is a fairly arbitrary range though, as it really depends on what you're exposed to within those years.
-If you're just building small business sites with Elementor, you're not unlikely to know why transients are expiring before their expiry when an object cache is being used, for example.
+If you're just building small business sites with Elementor, you're unlikely to know why transients are expiring before their expiry when an object cache is being used, for example.
 
 A lot of the questions are common sense though, which is nice.
 
-But do can I remember how to do `LEFT JOIN` statement in SQL and use `EXPLAIN` to understand query performance off the top of my head, probably not.
+But can I remember how to do `LEFT JOIN` statement in SQL and use `EXPLAIN` to understand query performance off the top of my head, probably not.
 
 Reviewing these study notes should provide answers to these more specific questions.
 
