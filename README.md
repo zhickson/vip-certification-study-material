@@ -1,4 +1,4 @@
-# WordPress VIP Certification Study Material
+# Unofficial WordPress VIP Certification Study Material
 
 A certified Advanced Professional WordPress Developer, is a highly skilled developer with deep knowledge of WordPress at scale. This individual can design, develop, secure, optimize, and maintain enterprise-grade WordPress implementations. They understand the unique challenges of high-traffic, large-data, and mission-critical environments. They can collaborate effectively across technical and business teams, implementing solutions that are performant, secure, scalable, and maintainable.
 
