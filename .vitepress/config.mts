@@ -6,7 +6,7 @@ const vitePressOptions = {
   srcDir: "docs",
   base: '/vip-certification-study-material/',
   lang: 'en-AU',
-  title: "WordPress VIP Certification Study Material",
+  title: "VIP Certification Study Guide",
   description: "Study material for the WordPress VIP Certification (BETA)",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -16,7 +16,11 @@ const vitePressOptions = {
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/zhickson/vip-certification-study-material' }
-    ]
+    ],
+
+    search: {
+      provider: 'local'
+    }
   }
 };
 
