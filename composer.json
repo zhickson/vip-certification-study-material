@@ -1,0 +1,18 @@
+{
+    "name": "zhickson/vip-cert",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Zachary Hickson",
+            "email": "zhickson@thecode.co"
+        }
+    ],
+    "require": {
+        "johnpbloch/wordpress": "^6.9"
+    },
+    "config": {
+        "allow-plugins": {
+            "johnpbloch/wordpress-core-installer": true
+        }
+    }
+}
